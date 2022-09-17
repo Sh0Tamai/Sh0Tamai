@@ -1,6 +1,6 @@
 ### Hi there 😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
 
-![blueviolet](https://komarev.com/ghpvc/?username=your-github-username=Sh0Tamai)
+![blueviolet](https://komarev.com/ghpvc/?username=Sh0Tamai)
 
 
 <!--
