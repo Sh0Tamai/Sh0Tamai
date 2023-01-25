@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋,  This is Shota TAMAI🤔 </h1>
+<h1 align="left">Hi there 👋,  This is Shota TAMAI😄 </h1>
 
 - 🔭 I’m currently working on [Makino Milling Machine Co., Ltd.](https://www.makino.co.jp/)
 
